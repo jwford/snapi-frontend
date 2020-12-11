@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "snapi"
+  "defaultProject": "snapi",
+  "cli": {
+    "analytics": false
+  }
 }
